@@ -5,3 +5,8 @@ body {
 h1 {
   font-family: "Bebas Neue", cursive;
 }
+
+.hero-photo {
+  max-height: 800px;
+  right: 0;
+}
